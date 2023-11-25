@@ -1,5 +1,4 @@
 <h1 align="center"> Olá, eu me chamo Alan !</h1>
-<img align="right" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177965804323622922/877een.gif?ex=65746d25&is=6561f825&hm=7e0a8de09e1d897c3d374bc41e7b0e210e32c895ef536d0ef0e2cd121d178ef3&"/>
 
 <div style="display: inline_block"><br>
   <h3 align="left"> Linguagens e ferramentas: </h3>
@@ -17,5 +16,6 @@
   <a href = "mailto:devaneiosdoalan@gmail,com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-filho-866037267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/itsnotallenn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
-  
+
+<img align="right" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177965804323622922/877een.gif?ex=65746d25&is=6561f825&hm=7e0a8de09e1d897c3d374bc41e7b0e210e32c895ef536d0ef0e2cd121d178ef3&"/>
+
