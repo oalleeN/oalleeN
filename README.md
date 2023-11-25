@@ -12,7 +12,7 @@
   <div> 
   <h3 align="left"> Conecte-se comigo: </h3>
   <a href="https://www.youtube.com/channel/UCShv5fOOvg7Odd-4hiawpnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/itsnotallenn" target="_blank"><img align="center" alt="alleN-CSS" height="25" width="35" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177972998431571978/instagram.png?ex=657473d8&is=6561fed8&hm=46365114bdecdf04c502f011aeba38843c2394d556963cab65f0c0d8edc70898&" target="_blank"></a>
+  <a href="https://instagram.com/itsnotallenn" target="_blank"><img align="center" alt="alleN-Insta" height="40" width="40" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177972998431571978/instagram.png?ex=657473d8&is=6561fed8&hm=46365114bdecdf04c502f011aeba38843c2394d556963cab65f0c0d8edc70898&" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-filho-866037267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/itsnotallenn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
