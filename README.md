@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu me chamo Alan !</h1>
-<img align="right" alt="Coding" width="400" src="https://imgflip.com/gif/877efe"/>
+<img align="right" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177965804323622922/877een.gif?ex=65746d25&is=6561f825&hm=7e0a8de09e1d897c3d374bc41e7b0e210e32c895ef536d0ef0e2cd121d178ef3&"/>
 
 <div style="display: inline_block"><br>
   <h3 align="left"> Linguagens e ferramentas: </h3>
