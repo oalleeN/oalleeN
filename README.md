@@ -17,5 +17,5 @@
   <a href="https://www.linkedin.com/in/alan-filho-866037267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/itsnotallenn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-<img align="right" alt="Coding" width="150" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177967905053347890/877fh6.gif?ex=65746f1a&is=6561fa1a&hm=84184c0237a5cf3b99aa2894b1ab25873433559fb011296364d3d50098ee6804&"/>
+<img align="right" alt="Coding" width="100" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177967905053347890/877fh6.gif?ex=65746f1a&is=6561fa1a&hm=84184c0237a5cf3b99aa2894b1ab25873433559fb011296364d3d50098ee6804&"/>
 
