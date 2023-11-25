@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu me chamo Alan !</h1>
+<h1 align="center"> Olá, eu sou o Alan! </h1>
 
 <div style="display: inline_block"><br>
   <h3 align="left"> Linguagens e ferramentas: </h3>
