@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu me chamo Alan !</h1>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="https://imgflip.com/gif/877efe"/>
 
 <div style="display: inline_block"><br>
   <h3 align="left"> Linguagens e ferramentas: </h3>
