@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Alan!</h1>
  
- <h2>
+<h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=dracula"/>
- </h2>
+</h2>
 <div style="display: inline_block"><br>
   <h3 align="left"> Linguagens e ferramentas: </h3>
   <img align="center" alt="alleN-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +13,7 @@
 
   ##
   
-  <div> 
+<div> 
   <h3 align="left"> Conecte-se comigo: </h3>
   <a href="https://www.youtube.com/channel/UCShv5fOOvg7Odd-4hiawpnw" target="_blank"><img align="center" alt="alleN-YT" height="40" width="40" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177977759981641748/youtube_1.png?ex=65747847&is=65620347&hm=1dc1b935174b58bce8bb17baa94fad22b4a87c09e3e277c0d66820daa27168e9&" target="_blank"></a>
   <a href="https://instagram.com/itsnotallenn" target="_blank"><img align="center" alt="alleN-Insta" height="40" width="40" src="https://cdn.discordapp.com/attachments/1177965498676289649/1177979458821558272/instagram_3.png?ex=657479dc&is=656204dc&hm=67e896b71c2fb5c52469085a24ab0e75e27bb673938faa8de3d204e710c250bb&" target="_blank"></a>
