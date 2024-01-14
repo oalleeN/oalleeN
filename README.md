@@ -2,7 +2,7 @@
  
 <h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=dracula"/>
 </h2>
 <div style="display: inline_block"><br>
   <h3 align="left"> Linguagens e ferramentas: </h3>
