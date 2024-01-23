@@ -1,4 +1,4 @@
- <h1 align="center">Olá, eu sou o Alan!</h1>
+ <h1>Olá, eu sou o Alan!</h1>
  
 <h2>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
