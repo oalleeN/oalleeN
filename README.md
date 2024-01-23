@@ -1,7 +1,7 @@
  <h1 align="center">Olá, eu sou o Alan!</h1>
  
 <h2>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=DarkPro&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=dracula"/>
 </h2>
 <div style="display: inline_block"><br>
