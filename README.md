@@ -7,8 +7,8 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=onedark"/>
 </h2>
-<div style="display: inline_block"><br>
-  <h3 align="left"> Linguagens e ferramentas: </h3>
+<div align="center" style="display: inline_block"><br>
+  <h3> Linguagens e ferramentas: </h3>
   <img align="center" alt="alleN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alleN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alleN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
