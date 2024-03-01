@@ -1,4 +1,4 @@
-<img align="center" alt="alleN-Icon" height="100" width="100" src="https://cdn.discordapp.com/attachments/1206762879278260237/1212959140809277471/revisao-de-codigo.png?ex=65f3bb3a&is=65e1463a&hm=729ca44856d24ec2d81794fb57161e1d59fa250891aa46382ad57e404cf284e3&" ">
+<a href="https://pt.vecteezy.com/png/20962986-programas-engenheiro-png-grafico-clipart-projeto">Programas engenheiro png gráfico clipart Projeto PNGs por Vecteezy</a>
 <h1>Olá, eu sou o Alan!</h1>
  
 <h2>
