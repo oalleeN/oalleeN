@@ -1,4 +1,5 @@
- <h1>Olá, eu sou o Alan!</h1>
+<img align="center" alt="alleN-Icon" height="100" width="100" src="https://cdn.discordapp.com/attachments/1206762879278260237/1212959140809277471/revisao-de-codigo.png?ex=65f3bb3a&is=65e1463a&hm=729ca44856d24ec2d81794fb57161e1d59fa250891aa46382ad57e404cf284e3&" ">
+<h1>Olá, eu sou o Alan!</h1>
  
 <h2>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
