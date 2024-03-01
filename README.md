@@ -1,6 +1,6 @@
 
 <div align="center">
- <img alt="alleN-Icon" height="40%" width="40%" src="https://octodex.github.com/images/NUX_Octodex.gif">
+ <img alt="alleN-Icon" height="40%" width="40%" src="https://octodex.github.com/images/spidertocat.png">
  <h1>Olá, eu sou o Alan!<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="42" height="42" />
  </h1>
 </div>
