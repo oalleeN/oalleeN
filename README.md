@@ -1,6 +1,6 @@
 
 <div align="center">
- <img alt="alleN-Icon" height="20%" width="20%" src="https://cdn.discordapp.com/attachments/1206762879278260237/1212962521950978048/vecteezy_software-engineer-png-graphic-clipart-design_20962986.png?ex=65f3be60&is=65e14960&hm=e7796e9949e7163204b52098240948decc660b8e3fa0764abcc7e2289de9d285&">
+ <img alt="alleN-Icon" height="20%" width="20%" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
  <h1>Olá, eu sou o Alan!<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="42" height="42" />
  </h1>
 </div>
