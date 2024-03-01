@@ -16,9 +16,9 @@
   <img align="center" alt="alleN-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" ">
 
   ##
-  
+ 
 <div align="center"> 
-  <h3 align="left"> Conecte-se comigo: </h3>
+  <h3> Conecte-se comigo: </h3>
   <a href="https://www.youtube.com/channel/UCShv5fOOvg7Odd-4hiawpnw" target="_blank"><img align="center" alt="alleN-YT" height="40" width="40" src="https://cdn.discordapp.com/attachments/1206762879278260237/1211030823294468167/youtube.png?ex=65ecb758&is=65da4258&hm=f36306d9177cb66df54a170bbc7370d7f803b5848b37bf8403600b37c4d50e25&" target="_blank"></a>
   <a href="https://instagram.com/itsnotallenn" target="_blank"><img align="center" alt="alleN-Insta" height="40" width="40" src="https://cdn.discordapp.com/attachments/1206762879278260237/1211030823579422770/instagram.png?ex=65ecb758&is=65da4258&hm=73aef9edaaf5f2dcd1f30009a62d48d97e32babc43bb577d7469f49b170e8c09&" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img align="center" alt="alleN-dc" height="40" width="40" src="https://cdn.discordapp.com/attachments/1206762879278260237/1211030822958927942/discordia.png?ex=65ecb758&is=65da4258&hm=5a2e0062be4771896729a9dd455fcc0fcc2e701fabb05902c589cc1064e716f3&" target="_blank"></a>
