@@ -13,9 +13,7 @@
   <img align="center" alt="alleN-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img align="center" alt="alleN-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="alleN-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
- 
- ##
- 
+ <a> </a>
  <div>
   <img align="center" alt="alleN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="alleN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +23,7 @@
  </div>
  
   ##
- 
+
 <div> 
   <h3> Conecte-se comigo: </h3>
   <a href="https://www.youtube.com/channel/UCShv5fOOvg7Odd-4hiawpnw" target="_blank"><img align="center" alt="alleN-YT" height="40" width="40" src="https://cdn.discordapp.com/attachments/1206762879278260237/1211030823294468167/youtube.png?ex=65ecb758&is=65da4258&hm=f36306d9177cb66df54a170bbc7370d7f803b5848b37bf8403600b37c4d50e25&" target="_blank"></a>
