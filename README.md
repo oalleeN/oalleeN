@@ -3,7 +3,7 @@
 <img alt="alleN-Icon" height="20%" width="20%" src="https://cdn.discordapp.com/attachments/1206762879278260237/1212962521950978048/vecteezy_software-engineer-png-graphic-clipart-design_20962986.png?ex=65f3be60&is=65e14960&hm=e7796e9949e7163204b52098240948decc660b8e3fa0764abcc7e2289de9d285&">
 <h1>Olá, eu sou o Alan!😉</h1>
 </div>
-<h2>
+<h2 align="center">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=onedark"/>
 </h2>
