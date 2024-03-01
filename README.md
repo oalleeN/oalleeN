@@ -1,5 +1,7 @@
 
-<img align="center" alt="alleN-Icon" height="100" width="100" src="https://pt.vecteezy.com/png/20962986-programas-engenheiro-png-grafico-clipart-projeto">
+<h1>
+<img align="center" alt="alleN-Icon" height="100" width="100" src="https://cdn.discordapp.com/attachments/1206762879278260237/1212962521950978048/vecteezy_software-engineer-png-graphic-clipart-design_20962986.png?ex=65f3be60&is=65e14960&hm=e7796e9949e7163204b52098240948decc660b8e3fa0764abcc7e2289de9d285&">
+</h1>
 <h1>Olá, eu sou o Alan!</h1>
  
 <h2>
