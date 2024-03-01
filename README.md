@@ -1,4 +1,5 @@
-<a href="https://pt.vecteezy.com/png/20962986-programas-engenheiro-png-grafico-clipart-projeto">Programas engenheiro png gráfico clipart Projeto PNGs por Vecteezy</a>
+
+<img align="center" alt="alleN-Icon" height="100" width="100" src="https://pt.vecteezy.com/png/20962986-programas-engenheiro-png-grafico-clipart-projeto">
 <h1>Olá, eu sou o Alan!</h1>
  
 <h2>
