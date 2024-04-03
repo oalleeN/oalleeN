@@ -3,7 +3,7 @@
 - I am a Software Engineering student.
 - I love what I do, learn and teach.
 - Learning focused on Back-end Development.
-- Always learning and executing
+- Always learning and executing.
   
 
 <h2 align="left">
