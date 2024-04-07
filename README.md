@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&random=false&width=435&height=40&lines=Hey+Guys!👋)](https://git.io/typing-svg)
-### **_`My name is Alan Filho, I am a huge technology and programming enthusiast.`_**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=e4bf7a&random=false&width=435&height=40&lines=Hey+Guys!👋)](https://git.io/typing-svg)
+### _My name is Alan Filho, I am a huge technology and programming enthusiast._
 - I am a Software Engineering student.
 - I love what I do, learn and teach.
 - Learning focused on Back-end Development.
