@@ -7,12 +7,14 @@
 
 _<h2>Technologies</h2>_
 <div>
-  <img width="50" height="50" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/dusk/512/python.png" alt="python"/>
   <img width="50" height="50" src="https://img.icons8.com/dusk/512/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img width="50" height="50" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
-  <img width="43" height="47" src="https://img.icons8.com/dusk/64/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="50" height="50" src="https://img.icons8.com/clouds/100/figma.png" alt="figma"/>
+  <img width="50" height="50" src="https://img.icons8.com/plasticine/400/intellij-idea.png" alt="intellij-idea"/>
+  <img width="50" height="50" src="https://img.icons8.com/dusk/512/visual-studio.png" alt="visual-studio"/>
+  <img width="50" height="50" src="https://img.icons8.com/clouds/500/figma.png" alt="figma"/>
   <img width="50" height="50" src="https://img.icons8.com/dusk/512/javascript.png" alt="javascript"/>
+  <img width="50" height="50" src="https://img.icons8.com/plasticine/400/html-5.png" alt="html-5"/>
+  <img width="50" height="50" src="https://img.icons8.com/plasticine/400/css3.png" alt="css3"/>
   
   
 </div>
