@@ -4,7 +4,14 @@
 - I love what I do, learn and teach.
 - Learning focused on Back-end Development.
 - Always learning and executing.
-  
+
+_<h2>Technologies</h2>_
+<div>
+  <img width="50" height="50" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+  <img width="50" height="50" src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  <img width="50" height="50" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="intellij-idea"/>
+  <img width="43" height="43" src="https://img.icons8.com/dusk/64/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+</div>
 
 <h2 align="left">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
