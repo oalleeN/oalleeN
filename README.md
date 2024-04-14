@@ -11,7 +11,7 @@ _<h2>Technologies</h2>_
   <img width="50" height="50" src="https://img.icons8.com/dusk/512/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/400/intellij-idea.png" alt="intellij-idea"/>
   <img width="50" height="50" src="https://img.icons8.com/dusk/512/visual-studio.png" alt="visual-studio"/>
-  <img width="50" height="50" src="https://img.icons8.com/clouds/500/figma.png" alt="figma"/>
+  <img width="50" height="50" src="https://img.icons8.com/plasticine/400/figma.png" alt="figma"/>
   <img width="50" height="50" src="https://img.icons8.com/dusk/512/javascript.png" alt="javascript"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/400/html-5.png" alt="html-5"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/400/css3.png" alt="css3"/>
