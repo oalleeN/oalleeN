@@ -4,7 +4,7 @@
   
   _<h2 align="left">My name is Alan Filho, I am a huge technology and programming enthusiast.</h3>_
 
-  <img align="right" src="https://github.com/oalleeN/oalleeN/assets/125782386/2adf30d8-62a5-4fa8-918e-3acdbf0a6aa9" height="300px" alt="illustration"/>
+  <img align="right" src="https://github.com/oalleeN/oalleeN/assets/125782386/2adf30d8-62a5-4fa8-918e-3acdbf0a6aa9" height="250px" alt="illustration"/>
   
   <ul align="left">
       <li>📚 I am a Software Engineering student.</li>
