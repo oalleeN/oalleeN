@@ -1,9 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=e4bf7a&random=false&width=435&height=40&lines=Hey+Guys!👋)](https://git.io/typing-svg)
 ### _My name is Alan Filho, I am a huge technology and programming enthusiast._
-- 📚 I am a Software Engineering student.
-- 💻 Learning focused on Back-end Development.
-- 😁 I love what I do, learn and teach.
-- 🧑‍💻 Always learning and executing.
+
+<div>
+  <img align="right" src="https://github.com/oalleeN/oalleeN/assets/125782386/2adf30d8-62a5-4fa8-918e-3acdbf0a6aa9" width="17%" height="17%" alt="illustration"/>
+   <ul>
+        <li>📚 I am a Software Engineering student.</li>
+        <li>💻 Learning focused on Back-end Development.</li>
+        <li>😁 I love what I do, learn and teach.</li>
+        <li>🧑‍💻 Always learning and executing.</li>
+  </ul>
+</div>
+
 
 _<h2>Technologies</h2>_
 <div>
