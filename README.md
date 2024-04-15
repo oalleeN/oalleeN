@@ -15,10 +15,9 @@ _<h2>Technologies</h2>_
   <img width="50" height="50" src="https://img.icons8.com/dusk/512/javascript.png" alt="javascript"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/400/html-5.png" alt="html-5"/>
   <img width="50" height="50" src="https://img.icons8.com/plasticine/400/css3.png" alt="css3"/>
-  
-  
 </div>
 
+_<h2>Performance</h2>_
 <h2 align="left">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=onedark"/>
