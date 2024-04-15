@@ -6,7 +6,7 @@
 
   <img align="right" src="https://github.com/oalleeN/oalleeN/assets/125782386/2adf30d8-62a5-4fa8-918e-3acdbf0a6aa9" height="250px" alt="illustration"/>
   
-  <ul align="left">
+  <ul>
       <li>📚 I am a Software Engineering student.</li>
       <li>💻 Learning focused on Back-end Development.</li>
       <li>😁 I love what I do, learn and teach.</li>
