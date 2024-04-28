@@ -15,19 +15,14 @@
 </div>
 
 <div>
-  
-  _<h3>Technologies</h3>_
-  
-  <div>
-    <img width="48" height="48" src="https://img.icons8.com/dusk/512/python.png" alt="python"/>
-    <img width="50" height="50" src="https://img.icons8.com/dusk/512/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-    <img width="50" height="50" src="https://img.icons8.com/plasticine/400/intellij-idea.png" alt="intellij-idea"/>
-    <img width="50" height="50" src="https://img.icons8.com/dusk/512/visual-studio.png" alt="visual-studio"/>
-    <img width="50" height="50" src="https://img.icons8.com/plasticine/400/figma.png" alt="figma"/>
-    <img width="50" height="50" src="https://img.icons8.com/dusk/512/javascript.png" alt="javascript"/>
-    <img width="50" height="50" src="https://img.icons8.com/plasticine/400/html-5.png" alt="html-5"/>
-    <img width="50" height="50" src="https://img.icons8.com/plasticine/400/css3.png" alt="css3"/>
-  </div>
+  <img width="40" height="40" src="https://img.icons8.com/dusk/512/python.png" alt="python"/>
+  <img width="40" height="40" src="https://img.icons8.com/dusk/512/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  <img width="40" height="40" src="https://img.icons8.com/plasticine/400/intellij-idea.png" alt="intellij-idea"/>
+  <img width="40" height="40" src="https://img.icons8.com/dusk/512/visual-studio.png" alt="visual-studio"/>
+  <img width="40" height="40" src="https://img.icons8.com/plasticine/400/figma.png" alt="figma"/>
+  <img width="40" height="40" src="https://img.icons8.com/dusk/512/javascript.png" alt="javascript"/>
+  <img width="40" height="40" src="https://img.icons8.com/plasticine/400/html-5.png" alt="html-5"/>
+  <img width="40" height="40" src="https://img.icons8.com/plasticine/400/css3.png" alt="css3"/>
 </div>
 
 _<h2>Performance</h2>_
