@@ -2,7 +2,7 @@
 
 <div>
   
-  _<h2 align="left">My name is Alan Filho, I am a huge technology and programming enthusiast.</h3>_
+  ## My name is Alan Filho, I am a huge technology and programming enthusiast.
   
   <ul>
       <li>📚 I am a Software Engineering student.</li>
@@ -23,7 +23,7 @@
   <img width="40" height="40" src="https://img.icons8.com/plasticine/400/css3.png" alt="css3"/>
 </div>
 
-_<h2>Performance</h2>_
+## Performance
 <h2 align="left">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oalleeN&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oalleeN&layout=compact&langs_count=6&theme=onedark"/>
