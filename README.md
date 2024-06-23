@@ -1,9 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=e4bf7a&random=false&width=435&height=40&lines=Hey+Guys!👋)](https://git.io/typing-svg)
+# Hey Guys! My name is Alan Filho.👋
 
 <div>
-  
-  ## My name is Alan Filho, I am a huge technology and programming enthusiast.
-  
   <ul>
       <li>📚 I am a Software Engineering student.</li>
       <li>💻 Learning focused on Back-end Development.</li>
