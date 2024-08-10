@@ -1,13 +1,6 @@
 # Hey Guys! My name is Alan Filho.👋
 
-<div>
-  <ul>
-      <li>📚 I am a Software Engineering student.</li>
-      <li>💻 Learning focused on Back-end Development.</li>
-      <li>😁 I love what I do, learn and teach.</li>
-      <li>🧑‍💻 Always learning and executing.</li>
-  </ul>
-</div>
+- Graduating in Software Engineering, I continue to learn constantly to pursue a career in Back-end Development..
 
 <div>
   <img width="40" height="40" src="https://img.icons8.com/dusk/512/python.png" alt="python"/>
